@@ -11,9 +11,8 @@ const AnatomySection = () => {
       
       <div className="relative flex items-center justify-center min-h-[300px] md:min-h-[400px]">
         {/* Human Body Illustration */}
-        <div className="relative w-32 sm:w-40 md:w-48 h-60 sm:h-72 md:h-80 mx-auto">
-          <img 
-            src="/assets/human-anatomy.png" 
+        <div className="relative w-32 sm:w-40 md:w-48 h-60 sm:h-72 md:h-80 mx-auto">          <img 
+            src="/human-anatomy.png" 
             alt="Human Anatomy" 
             className="w-full h-full object-contain"
           />
